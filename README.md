@@ -1,2 +1,4 @@
 # Simple-Chatty-Bot
-A  simple chat bot  developed using Python Language
+Hi! It's me mehedi,a warming welcome.
+I have developed a simple chat bot using Python Language.
+Happy coding !!!!
